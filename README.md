@@ -1,6 +1,6 @@
 # GOTV 自用源
 ## 全国可用直播源：
-- [我的播放源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/我的播放源.m3u8)
+- 我的播放源.m3u8 https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/我的播放源.m3u8
 - [GGTV424个源全部可用.m3u](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/GGTV424个源全部可用.m3u)
 - [45个影视剧场全部流畅.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/45个影视剧场全部流畅.m3u8)
 - [1300个直播源全部有效【全部4k老电脑别用】.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/1300个直播源全部有效【全部4k老电脑别用】.m3u8)
